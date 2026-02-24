@@ -29,16 +29,16 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "aqpy", specifier = ">=0.1.3" },
+    { name = "aqpy", specifier = ">=0.1.4" },
     { name = "streamlit", specifier = ">=1.54.0" },
 ]
 
 [[package]]
 name = "aqpy"
-version = "0.1.3"
+version = "0.1.4"
 source = { registry = "https://pypi.org/simple" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/0a/80/3123aa1c85a82cc78ab66ede8fe5e55f6d5a6160b78a7e1801a820d6b062/aqpy-0.1.3-cp313-abi3-manylinux_2_34_x86_64.whl", hash = "sha256:b67fc1708fecfb4dcfffc13239ce226a09a23870a03169e1d4492a36d2ff782b", size = 291132, upload-time = "2026-02-23T19:21:19.356Z" },
+    { url = "https://files.pythonhosted.org/packages/61/12/cfe504706f05f428f235cf2f50566d0933926ccb06849a4b1246b679fc3c/aqpy-0.1.4-cp313-abi3-manylinux_2_34_x86_64.whl", hash = "sha256:a4df9a5649446b795ca4bca475a0bb809b571e1acedbf5b484b3578bbcb69a2b", size = 292850, upload-time = "2026-02-24T17:45:06.668Z" },
 ]
 
 [[package]]
